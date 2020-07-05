@@ -9651,7 +9651,9 @@ textarea.form-control {
     width: 225px;
   }
   #my-portrait {
+    border-radius: 8px;
     height: 380px;
+    margin-top: 25px;
   }
   .mouse {
     display: none;
