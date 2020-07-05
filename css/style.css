@@ -9658,6 +9658,9 @@ textarea.form-control {
     height: 380px;
     margin-top: 25px;
   }
+  .my-project {
+    margin-bottom: 20px;
+  }
   .mouse {
     display: none;
   }
