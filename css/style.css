@@ -9650,6 +9650,9 @@ textarea.form-control {
     height: 180px;
     width: 225px;
   }
+  #landing-overlay {
+    opacity: 0.2 !important;
+  }
   #my-portrait {
     border-radius: 8px;
     height: 380px;
@@ -9657,6 +9660,13 @@ textarea.form-control {
   }
   .mouse {
     display: none;
+  }
+  .project-title {
+    color: white;
+    font-weight: bold;
+  }
+  .overlay {
+    opacity: 0.6 !important;
   }
 }
 
