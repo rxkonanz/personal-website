@@ -9641,14 +9641,17 @@ textarea.form-control {
   -webkit-animation: loader-dash 1.5s ease-in-out infinite;
   animation: loader-dash 1.5s ease-in-out infinite;
   stroke-linecap: round; }
-
-@media (max-width: 500) {
+ 
+@media (max-width: 500px) {
   #landing-animation {
     margin-bottom: 200px;
   }
   #landing-image {
     height: 180px;
     width: 225px;
+  }
+  #my-portrait {
+    height: 380px;
   }
   .mouse {
     display: none;
