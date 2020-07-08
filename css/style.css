@@ -9647,7 +9647,7 @@ textarea.form-control {
   font-weight: bold;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1600px) {
   .mouse-icon {
     visibility: hidden;
   }
