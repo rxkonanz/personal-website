@@ -9647,6 +9647,12 @@ textarea.form-control {
   font-weight: bold;
 }
 
+@media (max-width: 1400px) {
+  .mouse-icon {
+    visibility: hidden;
+  }
+}
+
 @media (max-width: 500px) {
   #landing-animation {
     margin-bottom: 200px;
