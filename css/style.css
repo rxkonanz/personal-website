@@ -9642,6 +9642,11 @@ textarea.form-control {
   animation: loader-dash 1.5s ease-in-out infinite;
   stroke-linecap: round; }
  
+.project-title {
+  color: white;
+  font-weight: bold;
+}
+
 @media (max-width: 500px) {
   #landing-animation {
     margin-bottom: 200px;
@@ -9663,10 +9668,6 @@ textarea.form-control {
   }
   .mouse {
     display: none;
-  }
-  .project-title {
-    color: white;
-    font-weight: bold;
   }
   .overlay {
     opacity: 0.6 !important;
